@@ -40,7 +40,7 @@ I'm a passionate teenage software developer with 6 years of programming experien
 
 ## 📈 GitHub Stats
 
-![hacker3983 GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![hacker3983 GitHub stats](https://github-readme-stats.vercel.app/api?username=hacker3983&show_icons=true&theme=radical)
 
 ---
 
