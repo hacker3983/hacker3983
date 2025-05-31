@@ -21,7 +21,7 @@ A passionate teenage software developer with 6 years of experience in Python, C/
 
 👨‍💻 Check out my projects and contributions. If you like my work, consider giving a star or following me!
 
-🚀 Find me on Fiverr: [dujohndev](https://www.fiverr.com/hacker3983)  
+🚀 Find me on Fiverr: [dujohndev](https://www.fiverr.com/dujohndev)  
 
 ---
 
