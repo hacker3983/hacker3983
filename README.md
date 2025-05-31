@@ -46,8 +46,8 @@ I'm a passionate teenage software developer with 6 years of programming experien
 
 ## 📫 Get in Touch
 
-- Fiverr: [YourFiverrLink](https://www.fiverr.com/dujohndev)  
-- Twitter: [@YourTwitterHandle](https://x.com/catsanddogs0)  
+- Fiverr: [dujohndev](https://www.fiverr.com/dujohndev)  
+- Twitter: [@catsanddogs0](https://x.com/catsanddogs0)  
 ---
 
 Thanks for stopping by! Feel free to check out my repos and projects. I'm always open to collaboration and freelance opportunities.
